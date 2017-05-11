@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebViewBrowser</string>
+    <string name="url">Url</string>
+    <string name="go">Go</string>
+</resources>
